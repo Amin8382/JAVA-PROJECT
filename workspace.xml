@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c067a878-a33e-4ae7-a2a7-8cf4038fba7f" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2vuusXqS0CRpJOtOXjl2Wtw69m0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.DefectDetectorPro.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProfessionalDefectDetector.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TensorFlowTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/gasmi/IdeaProjects/DEFCTED_BROKEN_BUSTED_MECHANISMIS_ INTELLIGENT_DETECTOR/lib&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/gasmi/IdeaProjects/DEFCTED_BROKEN_BUSTED_MECHANISMIS_ INTELLIGENT_DETECTOR/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gasmi\IdeaProjects\DEFCTED_BROKEN_BUSTED_MECHANISMIS_ INTELLIGENT_DETECTOR\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TensorFlowTest">
+    <configuration name="DefectDetectorPro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DefectDetectorPro" />
+      <module name="DEFCTED_BROKEN_BUSTED_MECHANISMIS_ INTELLIGENT_DETECTOR" />
+      <option name="VM_PARAMETERS" value="-Djava.library.path=&quot;${PROJECT_DIR}\native&quot; -Dorg.bytedeco.javacpp.platform=windows-x86_64" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TensorFlowTest" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/.jdks/openjdk-23.0.2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="TensorFlowTest" />
+      <module name="DEFCTED_BROKEN_BUSTED_MECHANISMIS_ INTELLIGENT_DETECTOR" />
+      <option name="PROGRAM_PARAMETERS" value="-Djava.library.path=&quot;${PROJECT_DIR}\native&quot;" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <module name="DEFCTED_BROKEN_BUSTED_MECHANISMIS_ INTELLIGENT_DETECTOR" />
+      <option name="VM_PARAMETERS" value="-Djava.library.path=&quot;${PROJECT_DIR}\native&quot;" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <module name="DEFCTED_BROKEN_BUSTED_MECHANISMIS_ INTELLIGENT_DETECTOR" />
+      <option name="VM_PARAMETERS" value="-Djava.library.path=&quot;${PROJECT_DIR}\native&quot;" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.TensorFlowTest" />
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.DefectDetectorPro" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DefectDetectorPro" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c067a878-a33e-4ae7-a2a7-8cf4038fba7f" name="Changes" comment="" />
+      <created>1745007489600</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745007489600</updated>
+    </task>
+    <servers />
+  </component>
+</project>
